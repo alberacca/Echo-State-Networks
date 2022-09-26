@@ -6,6 +6,6 @@ Hyperparameter optimization is carried out via Bayesian Optimization using Recyc
 
 Sparse matrix implementation provides fast training (tens of seconds) and low memory requirements.
 
-As an example the networks are used to time-accurately predict the chaotic Lorenz system (https://doi.org/10.1175/1520-0469(1963)020<0130:DNF>2.0.CO;2).
+As an example the networks are used to time-accurately predict the chaotic Lorenz system.
 
 
