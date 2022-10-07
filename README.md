@@ -1,6 +1,6 @@
 # Echo State Networks - tutorial
 
-Self-contained implementation of Echo State Networks (https://doi.org/10.1007/978-3-642-35289-8_36).
+Self-contained implementation of Echo State Networks.
 
 Hyperparameter optimization is carried out via Bayesian Optimization using Recycle Validation and K-fold cross Validation as described in Racca and Magri (https://doi.org/10.1016/j.neunet.2021.05.004).
 
